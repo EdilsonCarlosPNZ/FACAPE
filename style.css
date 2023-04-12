@@ -28,6 +28,10 @@ article table {
     
 }
 
+article summary:hover {
+    background-color: cornflowerblue;
+}
+
 footer {
     text-align: center;
 }
