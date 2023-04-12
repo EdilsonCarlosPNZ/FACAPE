@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabeca {
+    top: 0%;
+    position: sticky;
+    background-color: white;
+}
+
+.foto1 {
+    max-width:100px;
+    max-height:130px;
+    width: auto;
+    height: auto;
+}
+
+#dados {
+    padding: 0px;
+}
+
+article ul {
+    list-style: none;
+}
+
+article table {
+    margin: auto
+    
+}
+
+footer {
+    text-align: center;
+}
